@@ -1,0 +1,13 @@
+for docker installation
+===========================
+
+sudo su - 
+
+curl -fsSL http://get.docker.com | sh
+
+to start docker
+=================
+
+systemctl start docker
+
+systemctl status docker
